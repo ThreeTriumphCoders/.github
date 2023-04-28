@@ -1,12 +1,25 @@
-## Hi there 👋
+# 🚀 ThreeTriumphCoders
 
-<!--
+Welcome to the ThreeTriumphCoders Github page!
 
-**Here are some ideas to get you started:**
+### 📝 About Us
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Our team comprises enthusiastic full-stack developers who are eager to explore new technologies and work on thrilling projects. <br />
+We dedicate ourselves to surpassing limits and devising inventive solutions that have a positive impact.
+
+### 🎯 Projects
+
+Our organization was formed with the purpose of working together on the development of the [Movies Entertainment App](https://github.com/ThreeTriumphCoders/movies-entertainment-app#readme). <br />
+Our goal is to design an app that is simple to use, allowing users to easily discover and explore new movies and TV shows. <br />
+We are thrilled about the potential of this project and are devoted to ensuring that it exceeds expectations.
+
+## 🛠️ Contributors
+
+👩‍💻 Anastasiia Kuznetsova [@kuznetsova-anastasiia](https://github.com/kuznetsova-anastasiia)
+
+👨‍💻 Kirill Vypirovsky [@kirill-vypirovskyi](https://github.com/kirill-vypirovskyi)
+
+👨‍💻 Stanislav Korchevskyi [@stanislavcodes](https://github.com/stanislavcodes)
+
+#### 💟 Thank you for your interest in ThreeTriumphCoders!
+
